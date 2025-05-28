@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"
            alt="Facebook" height="30">
     </a>
-    <a href="mailto:your-email@example.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <a href="mailto:bhanukamalshan20@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
            alt="Gmail" height="30">
     </a>
