@@ -33,6 +33,16 @@
 
   <h4 align="left">☎️ Contact Me:</h4>
 
+  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2021 Tien Huynh tienhuynh-tn
+</div>
+
   <h2 align="center">You can reach me by:</h2>
 
   <div style="background-color: white; padding: 55px 45px; border-radius: 12px; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
