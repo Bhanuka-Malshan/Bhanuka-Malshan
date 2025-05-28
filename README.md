@@ -42,11 +42,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-</p>
-
-
 ## 🛠️ My Skills
 
 | Category               | Skills & Tools                                                                                                            |
