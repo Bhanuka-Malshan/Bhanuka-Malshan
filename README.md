@@ -15,7 +15,26 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<br/><br/>
 
+## 👋 Hello World, I'm Bhanuka Malshan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+🚀 Passionate **IT Undergraduate** | 📡 **AI & IoT Enthusiast** | 🧠 **Active Learner & Researcher**  
+🎓 Currently pursuing a degree in **Information Technology**  
+🔍 Focused on building innovative tech solutions that blend **hardware and software**  
+📚 Always exploring new technologies, ideas, and creative coding projects!
+
+---
+
+### 🧠 What I'm Learning Now:
+- 🤖 Deep Learning & Computer Vision  
+- 🌐 IoT Integration with Cloud Platforms  
+- ⚙️ FastAPI for Scalable API Development  
+- 📊 Data Visualization & Feature Engineering  
+
+---
+
+<br/><br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
