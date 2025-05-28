@@ -17,7 +17,7 @@
 
 <br/>
 
-## 👋 Hello World, I'm Bhanuka Malshan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hellow, I'm Bhanuka Malshan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 🚀 Passionate **IT Undergraduate** | 📡 **AI & IoT Enthusiast** | 🧠 **Active Learner & Researcher**  
 🎓 Currently pursuing a degree in **Information Technology**  
