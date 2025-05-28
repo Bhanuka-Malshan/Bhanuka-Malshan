@@ -34,8 +34,6 @@
 
 ---
 
-<br/>
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/Bhanuka-Malshan">
@@ -61,11 +59,11 @@
 
 
 
-
+<br/>
 
 <div align="center">
 
-  <h4 align="left">☎️ Contact Me:</h4>
+  <h3 align="left">☎️ Contact Me:</h4>
 
  
   
