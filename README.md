@@ -14,14 +14,20 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
--------------------------------------------------------------------------------------------------------------
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Bhanuka-Malshan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--------------------------------------------------------------------------------------------------------------
+
+
+
+
 <div align="center">
 
   <h4 align="left">☎️ Contact Me:</h4>
