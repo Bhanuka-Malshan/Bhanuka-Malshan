@@ -35,12 +35,9 @@
 
  
   
-  
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
 
-
-  <h2 align="center">You can reach me by:</h2>
 
   <div style="background-color: white; padding: 55px 45px; border-radius: 12px; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
     <a href="https://www.linkedin.com/in/bhanuka-malshan-76600621b/" target="_blank" target="_blank" style="text-decoration: none; margin: 0 10px;">
@@ -62,7 +59,7 @@
   </div>
 
 </div>
-
+<br/><br/>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
 </div>
