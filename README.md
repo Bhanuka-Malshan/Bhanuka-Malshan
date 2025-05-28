@@ -25,7 +25,7 @@
 📚 Always exploring new technologies, ideas, and creative coding projects!
 
 ---
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 ### 🧠 What I'm Learning Now:
 - 🤖 Deep Learning & Computer Vision  
 - 🌐 IoT Integration with Cloud Platforms  
