@@ -34,14 +34,17 @@
 
 ---
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/Bhanuka-Malshan">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhanuka-Malshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhanuka-Malshan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhanuka-Malshan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuka-Malshan&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</p>
 
 
 ## 🛠️ My Skills
