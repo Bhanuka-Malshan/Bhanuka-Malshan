@@ -15,7 +15,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<br/><br/>
+<br/>
 
 ## 👋 Hello World, I'm Bhanuka Malshan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
@@ -25,7 +25,7 @@
 📚 Always exploring new technologies, ideas, and creative coding projects!
 
 ---
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 ### 🧠 What I'm Learning Now:
 - 🤖 Deep Learning & Computer Vision  
 - 🌐 IoT Integration with Cloud Platforms  
@@ -34,7 +34,7 @@
 
 ---
 
-<br/><br/>
+<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
