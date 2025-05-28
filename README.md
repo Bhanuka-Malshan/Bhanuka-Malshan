@@ -18,8 +18,8 @@
 
   <h2 align="center">You can reach me by:</h2>
 
-  <div style="background-color: white; padding: 15px 25px; border-radius: 12px; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-    <a href="https://www.linkedin.com/in/bhanuka-malshan-76600621b/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <div style="background-color: white; padding: 55px 45px; border-radius: 12px; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+    <a href="https://www.linkedin.com/in/bhanuka-malshan-76600621b/" target="_blank" target="_blank" style="text-decoration: none; margin: 0 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="LinkedIn" height="30">
     </a>
