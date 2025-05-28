@@ -11,8 +11,15 @@
 
 ---
 
-### 🌱 Learning & Interests:
+### 🔭 Current Projects:
+- 🐾 Smart Pet Feeding System with Image Recognition & IoT  
+- 👕 Virtual Cloth Try-On using Deep Learning  
+- 📚 Library Management System (Java + MySQL)  
+- 🚀 FastAPI Projects – Modern Python REST APIs  
 
+---
+
+### 🌱 Learning & Interests:
 - 🧠 Machine Learning & Deep Learning  
 - 🎯 Real-time Face Detection & Tracking  
 - 🔌 Arduino & Embedded IoT Systems  
@@ -21,6 +28,12 @@
 
 ---
 
-📫 **Connect with me:**  
-- GitHub: [github.com/Bhanuka-Malshan](https://github.com/Bhanuka-Malshan)  
-<!-- Add your LinkedIn, portfolio, or email below if desired -->
+### 📫 Connect with Me:
+- 🔗 GitHub: [github.com/Bhanuka-Malshan](https://github.com/Bhanuka-Malshan)  
+<!-- Optional: Add LinkedIn, email, or portfolio below -->
+<!-- - 💼 LinkedIn: [Your LinkedIn URL] -->
+<!-- - 📧 Email: your.email@example.com -->
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
