@@ -7,7 +7,9 @@
 </div>
 </p>
 
-
+<p align = "Left">
+	<img src = "https://komarev.com/ghpvc/?username=Bhanuka-Malshan&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -32,13 +34,7 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <a href="https://github.com/Bhanuka-Malshan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhanuka-Malshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhanuka-Malshan&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+
 
 
 ## 🛠️ My Skills
