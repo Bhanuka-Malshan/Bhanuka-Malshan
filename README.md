@@ -1,4 +1,7 @@
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me" style="text-decoration: none;">
+</div>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
