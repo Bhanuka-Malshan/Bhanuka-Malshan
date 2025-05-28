@@ -37,8 +37,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/Bhanuka-Malshan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhanuka-Malshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhanuka-Malshan&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhanuka-Malshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhanuka-Malshan&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
