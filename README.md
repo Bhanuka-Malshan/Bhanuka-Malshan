@@ -45,6 +45,54 @@
 </p>
 
 
+## 🛠️ My Skills
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" alt="Programming Languages"> </picture> Programming Languages & Tools
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.arduino.cc" target="_blank" rel="noopener noreferrer">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23007A8A.svg?style=plastic&logo=arduino&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230077B8.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://streamlit.io" target="_blank" rel="noopener noreferrer">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300C8FF.svg?style=plastic&logo=fastapi&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://opencv.org" target="_blank" rel="noopener noreferrer">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23007ACC.svg?style=plastic&logo=opencv&logoColor=white">
+  </a>
+</p>
+
+
 
 
 
